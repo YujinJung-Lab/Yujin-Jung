@@ -25,7 +25,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | Date       | Title & Topic                                                                                         | Link  |
 |------------|-------------------------------------------------------------------------------------------------------|-------|
 | 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings             | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
-| 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                               | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
+| 2025-03-31 | SLGAT: A novel model for multivariate time series anomaly detection with improved anomaly transformer and learning graph structures                               | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
 | 2025-09-05 | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification            | [Link]([https://www.youtube.com/watch?v=T0psauag59g](https://www.youtube.com/watch?v=y8wwyFIZar4) |
 ---
 
