@@ -19,16 +19,17 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
   
 ---
 
+
 ## 📚 Seminar on Thesis Research
 
 | Date       | Title & Topic                                                                                         | Link  |
 |------------|-------------------------------------------------------------------------------------------------------|-------|
-| 2025-07-09 | Energy-Efficient_Sensor_Data_Collection_Approach_for_Industrial_Process_Monitoring             | [Link]((https://www.youtube.com/watch?v=5x-6gMXWgOc))  |
-| 2025-08-12 |LGAT: A novel model for multivariate time series anomaly detection with improved anomaly 
-transformer and learning graph structures                                                                     | [Link]([[https://www.youtube.com/watch?v=ab6zdnfZ4xA]|
-                             
-| 2025-04-01 | Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification     | [Link](https://www.youtube.com/watch?v=y8wwyFIZar4)]) |
+| 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings             | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
+| 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                               | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
+| 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                        | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
+| 2025-05-11 | Any6D Model free 6D Pose Estimation of Novel Objects                                                  | [Link](https://youtu.be/4i56bGquu9E?si=LJmBNw5eHnYaQ-Zs) |
 ---
+
 
 ## 🔧 Skills
 
