@@ -35,6 +35,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 ### Programming & Frameworks
 - **Python** *(Deep Learning, Computer Vision, PyTorch, TensorFlow, OpenCV)*
 
+### Machine Learning & Deep Learning
+
 ### Database & DevOps
 - **Git & GitHub** *(Version Control, Collaboration)*
   
