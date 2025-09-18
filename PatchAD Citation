@@ -1,0 +1,10 @@
+@ARTICLE{zhong2024patchad,
+  author={Zhong, Zhijie and Yu, Zhiwen and Yang, Yiyuan and Wang, Weizheng and Yang, Kaixiang and Chen, C. L. Philip},
+  journal={IEEE Transactions on Big Data}, 
+  title={PatchAD: A Lightweight Patch-Based MLP-Mixer for Time Series Anomaly Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Mixers;Time series analysis;Anomaly detection;Contrastive learning;Big Data;Data models;Feature extraction;Transformers;Training;Measurement;Time series;anomaly detection;data mining;lightweight;MLP},
+  doi={10.1109/TBDATA.2025.3596745}}
